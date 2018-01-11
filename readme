@@ -1,0 +1,8 @@
+项目建立时间：2018.1.11
+项目来源：实验楼——node.js经典项目实践
+项目名称：爬虫
+spider.js:通过Node.js实现一个简单爬虫，爬取北京大学软件与微电子学院的新闻。
+spiderNews.js:通过Node.js实现一个简单爬虫，爬取百度新闻热点新闻。主要会用到的模块（包）有：http，fs，path，cheerio。http模块用于创建http请求，fs模块用于保存文件，path模块用于解析路径，cheerio包是服务器端的jQuery实现，这里用于解析HTML。
+将新闻title和地址保存在本地
+来源: 实验楼
+链接: https://www.shiyanlou.com/courses/455
